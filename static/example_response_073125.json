@@ -1,0 +1,90 @@
+{
+	"date": "20250730",
+	"summaries": [
+		{
+			"category": "Latvijas aktualitātes",
+			"articles": [
+				{
+					"mongo_id": "688ab941d045190803378efb",
+					"title": "Policijas redzeslokā nonākušais Olaines deputāts Lukaševics: Iepriekš deklarāciju CVK manā vietā aizpildīja cits cilvēks",
+					"url": "https://www.lsm.lv/raksts/zinas/latvija/30.07.2025-policijas-redzesloka-nonakusais-olaines-deputats-lukasevics-ieprieks-deklaraciju-cvk-mana-vieta-aizpildija-cits-cilveks.a608646/",
+					"summary": "Olaines novada domes deputāts Andrejs Lukaševics norādījis pretrunīgu informāciju par savu izglītību, vēlēšanu deklarācijās minot dažādas iestādes. Lai gan deputāts apgalvo, ka kļūdu pieļāvis cits, atbildīgā ministrija vērsusies policijā, lai pārbaudītu šīs ziņas, kas met ēnu uz domes reputāciju."
+				},
+				{
+					"mongo_id": "688ab93ed045190803378ef8",
+					"title": "Par spīti brīdinājumiem Jēkabpils biedrība piedalās festivālā Baltkrievijā",
+					"url": "https://www.lsm.lv/raksts/zinas/latvija/30.07.2025-par-spiti-bridinajumiem-jekabpils-biedriba-piedalas-festivala-baltkrievija.a608654/",
+					"summary": "Jēkabpils baltkrievu biedrība 'Spatkanne' izpelnījusies uzmanību, uzstājoties Baltkrievijā, kas atbalsta Krievijas agresiju Ukrainā. Biedrības vadītāja uzsver, ka brauciens bija kultūras, nevis politisks pasākums, un pašvaldība, kas to iepriekš atbalstījusi, izvairīgi komentē turpmāku finansējumu."
+				},
+				{
+					"mongo_id": "688ab946d045190803378eff",
+					"title": "Ģenētiskais tests parāda – ķīmijterapija vajadzīga tikai 20% krūts vēža pacienšu",
+					"url": "https://www.lsm.lv/raksts/zinas/latvija/30.07.2025-genetiskais-tests-parada-kimijterapija-vajadziga-tikai-20-kruts-veza-paciensu.a608638/",
+					"summary": "Latvijā tiek īstenots krūts vēža 'Onkotype DX' pilotprojekts, kas ļauj nosūtīt audu paraugus uz ASV analīzēm, lai noteiktu nepieciešamību pēc ķīmijterapijas. Tas jau palīdzējis 80% pacienšu izvairīties no ķīmijterapijas, un plānots to iekļaut valsts apmaksātu pakalpojumu sarakstā nākotnē."
+				}
+			]
+		},
+		{
+			"category": "Eiropas Savienība un starptautiskās attiecības",
+			"articles": [
+				{
+					"mongo_id": "688ab938d045190803378ef4",
+					"title": "Vācija nobremzē ES sankciju izskatīšanu pret Izraēlu",
+					"url": "https://www.lsm.lv/raksts/zinas/arzemes/30.07.2025-vacija-nobremze-es-sankciju-izskatisanu-pret-izraelu.a608675/",
+					"summary": "Eiropas Savienībā nav panākta vienošanās par oficiālas procedūras uzsākšanu sankciju piemērošanai Izraēlai, jo vairākas dalībvalstis, tostarp Vācija un Itālija, pieprasa papildu analīzi. Eiropas Komisija ierosināja daļēji apturēt Izraēlas dalību ES pētniecības programmā 'Horizon', pamatojoties uz ziņām par cilvēktiesību pārkāpumiem un humanitāro krīzi Gazā."
+				},
+				{
+					"mongo_id": "688ab957d045190803378f0c",
+					"title": "Moldovas prezidente: Krievija plāno iejaukšanos mūsu parlamenta vēlēšanās",
+					"url": "https://www.lsm.lv/raksts/zinas/arzemes/30.07.2025-moldovas-prezidente-krievija-plano-iejauksanos-musu-parlamenta-velesanas.a608604/",
+					"summary": "Moldovas prezidente Maija Sandu brīdina par pastiprinātiem Krievijas centieniem ietekmēt šoruden gaidāmās vēlēšanas valstī, izmantojot prokremliskos spēkus, ielu protestus, vēlētāju uzpirkšanu un dezinformācijas kampaņas. Viņa norāda, ka Krievija cenšas samazināt ārvalstīs dzīvojošo Moldovas pilsoņu vēlēšanu aktivitāti, finansējot projektus un kritizē 'Telegram' par nesadarbošanos."
+				},
+				{
+					"mongo_id": "688ab93cd045190803378ef7",
+					"title": "Polijas premjers uzstāj, ka valsts aizsardzības nauda jāiegulda pašmāju uzņēmumos",
+					"url": "https://www.lsm.lv/raksts/zinas/ekonomika/30.07.2025-polijas-premjers-uzstaj-ka-valsts-aizsardzibas-nauda-jaiegulda-pasmaju-uznemumos.a608655/",
+					"summary": "Polijas premjerministrs Mateušs Moraveckis uzsver, ka Eiropai līdz 2027. gadam jābūt gatavai atvairīt Krievijas uzbrukumu, neatkarīgi no kara iznākuma Ukrainā. Viņš aicina Polijai novirzīt aizsardzības izdevumus valsts aizsardzības nozarei, lai stiprinātu savas spējas un ekonomiku."
+				}
+			]
+		},
+		{
+			"category": "Ekonomika un tirdzniecība",
+			"articles": [
+				{
+					"mongo_id": "688ab939d045190803378ef5",
+					"title": "Tramps Brazīlijai piemēro 50% lielu muitas tarifu",
+					"url": "https://www.lsm.lv/raksts/zinas/ekonomika/30.07.2025-tramps-brazilijai-piemero-50-lielu-muitas-tarifu.a608670/",
+					"summary": "ASV eksprezidents Donalds Tramps draudējis Brazīlijai ar papildu muitas tarifiem, taču Brazīlijas prezidents ir gatavs atbildēt ar līdzīgiem pasākumiem. 50% ievedmuita būtu liels trieciens Brazīlijas ekonomikai, īpaši kafijas importam uz ASV."
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"articles": [
+				{
+					"mongo_id": "688ab93ed045190803378ef9",
+					"title": "RFS futbolisti zaudē Malmē, nepārvar Čempionu līgas kvalifikācijas otro kārtu",
+					"url": "https://www.lsm.lv/raksts/sports/futbols/30.07.2025-rfs-futbolisti-zaude-malme-neparvar-cempionu-ligas-kvalifikacijas-otro-kartu.a608651/",
+					"summary": "Latvijas futbola klubs RFS UEFA Čempionu līgas kvalifikācijas otrajā kārtā piekāpās Zviedrijas klubam 'Malmo', taču turpinās Eirokausu cīņas Eiropas līgas kvalifikācijas trešajā kārtā pret Somijas čempioniem 'KuPS'. Spēles laikā RFS palika mazākumā pēc Jāņa Ikaunieka sarkanās kartītes."
+				},
+				{
+					"mongo_id": "688ab941d045190803378efc",
+					"title": "Sevastova un Ostapenko krāj uzvaras Monreālas tenisa turnīrā, abas pārvar otro kārtu",
+					"url": "https://www.lsm.lv/raksts/sports/teniss/30.07.2025-sevastova-un-ostapenko-kraj-uzvaras-monrealas-tenisa-turnira-abas-parvar-otro-kartu.a608644/",
+					"summary": "Latvijas tenisistes Anastasija Sevastova un Aļona Ostapenko guvušas uzvaras Monreālas turnīra otrajā kārtā. Sevastova uzveica polieti Magdu Lineti, savukārt Ostapenko pārspēja Renatu Sarasu, un abas turpinās cīņas nākamajā kārtā."
+				}
+			]
+		},
+		{
+			"category": "Kultūra un māksla",
+			"articles": [
+				{
+					"mongo_id": "688ab944d045190803378efe",
+					"title": "Māksla neiet brīvdienās. Izcilu Latvijas mākslinieku darbi aplūkojami vasaras izstādēs",
+					"url": "https://www.lsm.lv/raksts/kultura/maksla/30.07.2025-maksla-neiet-brivdienas-izcilu-latvijas-makslinieku-darbi-aplukojami-vasaras-izstades.a608642/",
+					"summary": "Jūrmalas muzejā atklātas divas izstādes: 'Magnētisms' ar Kristiana Brektes darbiem un 'Skatiens spogulī', kas veltīta Džemmas Skulmes simtgadei. Valmieras muzejā apskatāmi Edītes Pauls-Vīgneres darbi, savukārt galerijā 'Daugava' Rīgā izstādē 'Rīga dimd!' redzami 16 izcilu autoru darbi."
+				}
+			]
+		}
+	]
+}
