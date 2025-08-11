@@ -17,18 +17,16 @@
     }
 </script>
 
-<div class="flex justify-center mb-8">
-    <select
-        class="category-dropdown"
-        on:change={selectCategory}
-    >
-        {#each categories as categorySummary (categorySummary.category)}
-            <option
-                value={categorySummary.category}
-                selected={activeCategory?.category === categorySummary.category}
-            >
-                {categorySummary.category}
-            </option>
-        {/each}
-    </select>
-</div>
+<select
+    class="select"
+    on:change={selectCategory}
+>
+    {#each categories as categorySummary (categorySummary.category)}
+        <option
+            value={categorySummary.category}
+            selected={activeCategory?.category === categorySummary.category}
+        >
+            {categorySummary.category}
+        </option>
+    {/each}
+</select>

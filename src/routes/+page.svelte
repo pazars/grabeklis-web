@@ -39,22 +39,25 @@
   @reference "tailwindcss";
 </style>
 
-<div class="container">
+<div class="max-w-7xl mx-auto flex flex-wrap justify-center">
     {#if error}
         <ErrorMessage message={error} />
     {:else if grabeklisData && grabeklisData.summaries && grabeklisData.summaries.length > 0}
-        <h1 class="text-5xl font-extrabold text-center text-gray-900 mb-3">
-            Kopsavilkums
-        </h1>
-        <p class="text-small text-center mb-5">
-            {dateString}
-        </p>
-
-        <CategoryTabs
-            categories={grabeklisData.summaries}
-            activeCategory={activeCategory}
-            on:select={handleCategorySelect}
-        />
+        <div class="items-center justify-between mb-3">
+            <div class="prose flex flex-col items-center mb-3">
+                <h1 class="mb-1 mt-3">
+                    Kopsavilkums
+                </h1>
+                <p class="mt-1"> {dateString}
+                </p>
+            </div>
+            
+            <CategoryTabs
+                categories={grabeklisData.summaries}
+                activeCategory={activeCategory}
+                on:select={handleCategorySelect}
+            />
+        </div>
 
         {#if activeCategory}
             <ArticleDisplay category={activeCategory} />

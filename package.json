@@ -12,6 +12,7 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
 	},
 	"dependencies": {
+		"daisyui": "^5.0.50",
 		"zod": "^4.0.11"
 	},
 	"devDependencies": {
@@ -19,6 +20,7 @@
 		"@sveltejs/adapter-cloudflare": "^7.1.2",
 		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
+		"@tailwindcss/typography": "^0.5.16",
 		"@tailwindcss/vite": "^4.1.11",
 		"autoprefixer": "^10.4.21",
 		"postcss": "^8.5.6",
