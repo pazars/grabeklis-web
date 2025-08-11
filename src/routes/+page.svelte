@@ -35,19 +35,18 @@
   @reference "tailwindcss";
 </style>
 
-<div class="max-w-7xl mx-auto flex flex-wrap justify-center">
+<div class="w-full mx-auto flex flex-wrap justify-center">
     {#if error}
         <ErrorMessage message={error} />
     {:else if grabeklisData && grabeklisData.summaries && grabeklisData.summaries.length > 0}
-        <div class="items-center justify-between mb-3">
-            <div class="prose flex flex-col items-center mb-3">
+        <div class="w-full prose items-center flex flex-col justify-center mb-3">
                 <h1 class="mb-1 mt-3">
                     Kopsavilkums
                 </h1>
                 <p class="mt-1"> {dateString}
                 </p>
-            </div>
-            
+        </div>
+        <div class="w-full items-center flex flex-wrap justify-center mb-3">
             <CategoryTabs
                 categories={grabeklisData.summaries}
                 activeCategory={activeCategory}
