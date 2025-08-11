@@ -1,8 +1,5 @@
 <script lang="ts">
-    // Import the type for the schema to correctly type the data prop
-    // Assuming GrabeklisAPISchemaType is derived from z.infer<typeof GrabeklisAPISchema>
     import type { GrabeklisAPISchemaType, Summary } from '$lib/schemas';
-    import { onMount } from 'svelte';
 
     import ErrorMessage from '$lib/components/ErrorMessage.svelte';
     import NoDataMessage from '$lib/components/NoDataMessage.svelte';
@@ -29,9 +26,8 @@
         ? formatLatvianDate(grabeklisData.date)
         : ''; // Provide an empty string fallback
 
-    // Function to set the active category when a tab is clicked
-    function handleCategorySelect(event: CustomEvent<Summary>) {
-        activeCategory = event.detail;
+    function handleCategorySelect(selectedCategory: Summary) {
+        activeCategory = selectedCategory;
     }
 </script>
 
@@ -55,7 +51,7 @@
             <CategoryTabs
                 categories={grabeklisData.summaries}
                 activeCategory={activeCategory}
-                on:select={handleCategorySelect}
+                onselect={handleCategorySelect}
             />
         </div>
 
